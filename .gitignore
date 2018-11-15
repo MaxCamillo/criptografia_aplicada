@@ -1,0 +1,7 @@
+.idea
+.gradle
+build
+/Android_DGPApp_LECTURA/gradle
+/Android_DGPApp_LECTURA/build.gradle
+/Android_DGPApp_LECTURA/local.properties
+/Android_DGPApp_LECTURA/settings.gradle
